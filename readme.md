@@ -1,4 +1,4 @@
-# Desafio
+# :dart: Desafio
 
 Desafio proposto pela [Codenation](https://www.codenation.dev/) para o curso de aceleração em ReactJS.
 O desafio consiste em implementar um algoritmo, utilizando linguagem de programação, que seja capaz de encodificar em desencodificar textos utilizando a cifra de cesar.
